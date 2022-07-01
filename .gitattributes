@@ -1,0 +1,7 @@
+render01.png filter=lfs diff=lfs merge=lfs -text
+render02.png filter=lfs diff=lfs merge=lfs -text
+Player2.png filter=lfs diff=lfs merge=lfs -text
+poster01.png filter=lfs diff=lfs merge=lfs -text
+poster02.png filter=lfs diff=lfs merge=lfs -text
+poster.xcf filter=lfs diff=lfs merge=lfs -text
+poster.blend filter=lfs diff=lfs merge=lfs -text
