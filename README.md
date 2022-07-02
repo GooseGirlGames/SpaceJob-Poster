@@ -11,7 +11,7 @@ Then, run:
 git lfs install
 ```
 
-Now you can clone this repo and all its 1.2GB will be cloned :)
+Now you can clone this repo and enjoy the included 100 MB GIMP file :)
 
 If you've already cloned, run
 ```
